@@ -1,0 +1,20 @@
+/* In index.css or WeatherApp.css */
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+}
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.weather-box {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 20px;
+  border-radius: 10px;
+}
